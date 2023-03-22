@@ -17,6 +17,8 @@ Star Wars API
 
 **Getting Started**
 
+https://pksnowstorm.github.io/starwarsplanets/
+
 **Future Enhancements**
 
 The ability to favorite a planet
