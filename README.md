@@ -15,7 +15,7 @@ Star Wars API
 
 **Screenshots**
 
-
+![image](https://user-images.githubusercontent.com/51368461/227193963-14e764f1-1990-44e8-bfab-074297b03971.png)
 
 **Getting Started**
 
