@@ -1,5 +1,20 @@
 body {
+    text-align: center;
+    display: block;
     background-image: url(https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2093&q=80);
     background-size: cover;
     color:white;
+}
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    display: inline-block;
+    background: linear-gradient(to bottom, gold 50%, white 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: red;
+}
+main, form {
+    text-align: left;
 }
