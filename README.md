@@ -21,7 +21,6 @@ Google Fonts
 
 **Getting Started**
 
-Only use planets that appear in Star Wars episode 1, 2, 3, 4, 5 and 6
 https://pksnowstorm.github.io/starwarsplanets/
 
 **Future Enhancements**
