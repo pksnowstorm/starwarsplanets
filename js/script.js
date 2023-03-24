@@ -5,6 +5,7 @@ let planetData, userInput;
 const $name = $('#name');
 const $climate = $('#climate');
 const $terrain = $('#terrain');
+const $population = $('#population');
 const $input = $('input[type="text"]');
 
 $('form').on('submit', handleGetData);
@@ -33,4 +34,5 @@ function render() {
   $name.text(planetData.results[0].name);
   $climate.text(planetData.results[0].climate);
   $terrain.text(planetData.results[0].terrain);
+  $population.text(planetData.results[0].population);
 }
