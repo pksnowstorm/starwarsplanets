@@ -1,4 +1,5 @@
 document.getElementById("container").style.display = "none";
+document.getElementById("instructions").style.display = "block";
 let planetData, userInput;
 
 const $name = $('#name');
@@ -20,9 +21,10 @@ function handleGetData(event) {
       planetData = data;
       render();
       document.getElementById("container").style.display = "block";
+      document.getElementById("instructions").style.display = "none";
     },
     (error) => {
-      alert("Planet did not appear in Star Wars episode 1, 2, 3, 4, 5 or 6")
+      console.log('bad request', error);
     }
   );
 }
