@@ -21,6 +21,7 @@ function handleGetData(event) {
     (data) => {
       planetData = data;
       render();
+      //hide and show elements that I want
       document.getElementById("container").style.display = "block";
       document.getElementById("instructions").style.display = "none";
     },
