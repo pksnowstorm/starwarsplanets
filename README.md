@@ -19,7 +19,7 @@ Google Fonts
 
 Before searching:
 
-![image](https://user-images.githubusercontent.com/51368461/227580817-d2e7fa00-4e9b-4609-ad99-65f85cdfc660.png)
+![image](https://user-images.githubusercontent.com/51368461/227591759-df7b0c1a-c321-4fb2-919e-38e26e42ac22.png)
 
 After searching:
 
