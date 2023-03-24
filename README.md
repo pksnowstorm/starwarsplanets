@@ -17,7 +17,9 @@ Google Fonts
 
 **Screenshots**
 
-![image](https://user-images.githubusercontent.com/51368461/227193963-14e764f1-1990-44e8-bfab-074297b03971.png)
+Before searching:
+
+![image](https://user-images.githubusercontent.com/51368461/227580817-d2e7fa00-4e9b-4609-ad99-65f85cdfc660.png)
 
 **Getting Started**
 
