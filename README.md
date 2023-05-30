@@ -19,7 +19,7 @@ Google Fonts
 
 Before searching:
 
-![image](https://user-images.githubusercontent.com/51368461/227592263-0a8c504e-9b4c-4203-9084-69b7bbff8203.png)
+![image](https://github.com/pksnowstorm/starwarsplanets/assets/51368461/4a509618-0d62-48ed-8174-0cc3a6c945f8)
 
 After searching:
 
